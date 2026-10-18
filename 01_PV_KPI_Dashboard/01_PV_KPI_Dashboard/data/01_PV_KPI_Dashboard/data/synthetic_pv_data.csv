@@ -1,0 +1,11 @@
+CaseID,ReportDate,Country,Product,Seriousness,Gender,AgeGroup,Event,Source,Outcome
+1001,2025-01-03,Germany,DrugA,Serious,Female,45-64,Rash,Spontaneous,Recovered
+1002,2025-01-05,France,VaxA,Non-Serious,Male,18-44,Headache,Literature,Recovering
+1003,2025-01-07,Spain,DrugB,Non-Serious,Female,65+,Fatigue,Clinical Study,Recovered
+1004,2025-01-10,Italy,DrugC,Serious,Male,45-64,Nausea,Spontaneous,Not Recovered
+1005,2025-01-13,Netherlands,VaxB,Non-Serious,Female,18-44,Fever,Health Authority,Recovered
+1006,2025-01-15,Germany,DrugA,Non-Serious,Male,18-44,Dizziness,Literature,Recovered
+1007,2025-01-18,Belgium,DrugD,Serious,Female,65+,Vomiting,Spontaneous,Recovering
+1008,2025-01-20,Poland,VaxA,Non-Serious,Male,45-64,Injection Site Pain,Clinical Study,Recovered
+1009,2025-01-23,France,DrugB,Serious,Female,45-64,Pruritus,Health Authority,Recovered
+1010,2025-01-25,Spain,DrugC,Non-Serious,Male,18-44,Diarrhea,Literature,Recovered
